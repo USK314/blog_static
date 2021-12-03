@@ -299,7 +299,7 @@ widgets:
     -
         # Where should the widget be placed, left sidebar or right sidebar
         position: left
-        type: subscribe_email
+        type:
         # Hint text under the email input
         description: 
         # Feedburner ID
@@ -308,7 +308,7 @@ widgets:
     -
         # Where should the widget be placed, left sidebar or right sidebar
         position: left
-        type: adsense
+        type:
         # AdSense client ID
         client_id: ''
         # AdSense AD unit ID
@@ -317,7 +317,7 @@ widgets:
     -
         # Where should the widget be placed, left sidebar or right sidebar
         position: left
-        type: followit
+        type:
         # Hint text under the email input
         description: 
         # Subscription form action URL
