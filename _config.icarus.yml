@@ -222,12 +222,12 @@ widgets:
     # Profile widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: right
+        position: left
         type: profile
         # Author name
         author: Haru
         # Author title
-        author_title: Haru kok
+        author_title: Haru koke
         # Author's current location
         location: Japan
         # URL or path to the avatar image
