@@ -114,7 +114,7 @@ navbar:
     links:
         Download on GitHub:
             icon: fab fa-github
-            url: 'https://github.com/ppoffice/hexo-theme-icarus'
+            url: 'https://github.com/USK314'
 # Page footer configurations
 footer:
     # Links to be shown on the right of the footer section
@@ -232,7 +232,7 @@ widgets:
         # Author's current location
         location: Japan
         # URL or path to the avatar image
-        avatar: themes/icarus/source/img/USK.jpg
+        avatar: /img/USK.jpg
         # Whether show the rounded avatar image
         avatar_rounded: false
         # Email address for the Gravatar
