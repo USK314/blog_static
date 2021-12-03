@@ -231,7 +231,7 @@ widgets:
         # Author's current location
         location: Japan
         # URL or path to the avatar image
-        avatar: 
+        avatar: themes/icarus/source/img/USK.jpg
         # Whether show the rounded avatar image
         avatar_rounded: false
         # Email address for the Gravatar
