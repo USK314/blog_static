@@ -163,6 +163,7 @@ search:
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
 comment:
     type: disqus
+    disqus: false
     # Disqus shortname
     shortname: ''
 # Donate plugin configurations
@@ -204,6 +205,7 @@ comment:
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Share/
 share:
     type: sharethis
+    sharethis: false
     # URL to the ShareThis share plugin script
     install_url: ''
 # Sidebar configurations.
