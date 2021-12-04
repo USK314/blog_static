@@ -8,8 +8,6 @@ tags:
 date: 2021-12-04 10:57:57
 ---
 
-# **HUIT**に入ってみたお話
-
 この記事は、[HUIT アドベントカレンダー 2021](https://qiita.com/advent-calendar/2021/huit) の４日目の記事です。
 
 昨日はtakapiroさんの[冬割クーポンの自動通知](https://takapiro99.github.io/2021/rurubu-fuyuwari-coupon)のお話でした。先日のJPHacks（後ほどこれについても記事書きます）ではtakapiroさんにもクーポンにも大変お世話になりましたね。
