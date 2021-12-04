@@ -83,7 +83,7 @@ module.exports = class extends Component {
                         </div>
                     </div> : null}
                     {/* Title */}
-                    {page.title !== '' ? <h1 class="title is-3 is-size-4-mobile">
+                    {page.title !== '' ? <h1 class="title is-3 is-size-4-mobile has-text-weight-semibold">
                         {index ? <a class="link-muted" href={url_for(page.link || page.path)}>{page.title}</a> : page.title}
                     </h1> : null}
                     {/* Content/Excerpt */}
