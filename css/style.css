@@ -2080,7 +2080,7 @@ a.list-item {
   flex-direction: column;
   max-height: calc(100vh - 40px);
   overflow: hidden;
-  -ms-overflow-y: visible;
+  overflow-y: visible;
 }
 .modal-card-head,
 .modal-card-foot {
@@ -11368,16 +11368,16 @@ figure.highlight .section {
   align-items: flex-start;
 }
 .widget .menu-list .tag {
-  background: $light-grey;
-  color: $white-invert;
+  background: #d3d3d3;
+  color: #000;
 }
 .widget .tags .tag:first-child {
   background: #3273dc;
   color: #fff;
 }
 .widget .tags .tag:last-child {
-  background: $light-grey;
-  color: $white-invert;
+  background: #d3d3d3;
+  color: #000;
 }
 .level.is-multiline {
   flex-wrap: wrap;
